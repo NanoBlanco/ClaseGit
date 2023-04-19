@@ -1,2 +1,2 @@
 # ClaseGit
-Clase Github
+Clase Github, enseñando a conectar Git con Github.
